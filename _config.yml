@@ -1,7 +1,7 @@
-name: fisa
+name: FISA
 favicon: null
 layout_spectrum: 0.318407695973292
-typography_spectrum: 0.2673686051275581
+typography_spectrum: 0.25145
 title: Filipe Santos
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#2e0093'
+    - '#4f8ce2'
+    - '#ffffff'
+    - '#bfbfbf'
+    - '#00ffff'
   brandStrength: 0.6403238931670785
   lightness: 0.6386932565364987
   saturation: 0.9085288278292865
