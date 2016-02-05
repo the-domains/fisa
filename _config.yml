@@ -2,12 +2,13 @@ name: fisa
 favicon: null
 layout_spectrum: 0.318407695973292
 typography_spectrum: 0.2673686051275581
+title: Filipe Santos
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-62724694-1
   facebook: null
   twitter: null
 opengraph:
