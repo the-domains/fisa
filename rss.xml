@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Filipe Santos]]></title>
         <description><![CDATA[Filipe Santos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://fisa.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 23:32:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 23:52:38 GMT</lastBuildDate>
+        <atom:link href="http://fisa.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Logo]]></title>
+            <description><![CDATA[<article><h1>Logo</h1><p>The begin of a new journey! This is a special year to me, here you'll find more about my project and prospects. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8554fa231d38257c6d5a884ad4d47fbb11783cd6.png"></article>]]></description>
+            <link>http://fisa.me/b4ee4b61-6b98-4d21-84c2-d634e0362b8d/index.html</link>
+            <guid isPermaLink="false">b4ee4b61-6b98-4d21-84c2-d634e0362b8d</guid>
+            <pubDate>Fri, 05 Feb 2016 23:52:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54a1482b-039c-44c8-8e08-7b015e63b502.jpg">]]></description>
-            <link>undefinedb9b871e1-4dad-4e9f-afe9-d5df747d8478/index.html</link>
+            <link>http://fisa.me/b9b871e1-4dad-4e9f-afe9-d5df747d8478/index.html</link>
             <guid isPermaLink="false">b9b871e1-4dad-4e9f-afe9-d5df747d8478</guid>
             <pubDate>Fri, 05 Feb 2016 23:32:19 GMT</pubDate>
         </item>
