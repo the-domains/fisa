@@ -4,7 +4,7 @@
         <description><![CDATA[Filipe Santos]]></description>
         <link>http://fisa.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 02:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 02:36:11 GMT</lastBuildDate>
         <atom:link href="http://fisa.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://fisa.me/719f4155-dcb8-4f40-bf73-0c5050150726/index.html</link>
             <guid isPermaLink="false">719f4155-dcb8-4f40-bf73-0c5050150726</guid>
             <pubDate>Sat, 06 Feb 2016 01:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quando uma foto me cala..]]></title>
+            <description><![CDATA[<article><h1>Quando uma foto me cala..</h1><p>Aquele momento em que é preciso deixar o tempo falar com você. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58833e9a20ea6ee0757579295f492d708347246e.jpg"></article>]]></description>
+            <link>http://fisa.me/quando-uma-foto-me-cala/index.html</link>
+            <guid isPermaLink="false">4c22aa1b-1842-4bb8-b8a9-11f0ab43e7de</guid>
+            <pubDate>Sat, 06 Feb 2016 02:31:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Como manter seus clientes focados no seu site]]></title>
@@ -51,10 +58,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b07e8025-3eb2-453c-bdee-d0ed52f84d3f.png" alt="" title="">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92f83a4824320ecc4c977f29d30a422801b8a855.png" alt="" title="">]]></description>
             <link>http://fisa.me/71495c6a-d6e6-491e-ba3a-25b71714a686/index.html</link>
             <guid isPermaLink="false">71495c6a-d6e6-491e-ba3a-25b71714a686</guid>
-            <pubDate>Sat, 06 Feb 2016 02:00:07 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 02:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>http://fisa.me/94e22ac2-7f65-469e-b51e-eb14119903fb/index.html</link>
             <guid isPermaLink="false">94e22ac2-7f65-469e-b51e-eb14119903fb</guid>
             <pubDate>Sat, 06 Feb 2016 01:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e221f897-0f82-4dd5-9127-1cdce72906d6.png">]]></description>
-            <link>http://fisa.me/50f9c682-f882-48ec-a05c-45d32f1e3cf6/index.html</link>
-            <guid isPermaLink="false">50f9c682-f882-48ec-a05c-45d32f1e3cf6</guid>
-            <pubDate>Sat, 06 Feb 2016 00:56:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
