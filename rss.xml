@@ -4,7 +4,7 @@
         <description><![CDATA[Filipe Santos]]></description>
         <link>http://fisa.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 17:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 17:34:37 GMT</lastBuildDate>
         <atom:link href="http://fisa.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://fisa.me/719f4155-dcb8-4f40-bf73-0c5050150726/index.html</link>
             <guid isPermaLink="false">719f4155-dcb8-4f40-bf73-0c5050150726</guid>
             <pubDate>Sat, 06 Feb 2016 01:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ballin = chillin]]></title>
+            <description><![CDATA[<article><h1>Ballin = chillin</h1><p>Fim de semana, basquete e amigos. what else?</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3kyuCTnN0VY&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">87527f2c-6da0-4b56-a076-8d691c4e7dbc</guid>
+            <pubDate>Sat, 06 Feb 2016 17:33:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -58,7 +65,7 @@
         <item>
             <title><![CDATA[Dicas para se viver melhor]]></title>
             <description><![CDATA[<article><h1>Dicas para se viver melhor</h1><p>O que é preciso para ser feliz?
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d84fd50f826087d7241171bbbc7f66495ac6e2.png"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e71ac3efb8d283ac1b3c7b067d3a37eb309bd84c.png"></article>]]></description>
             <link>http://fisa.me/dicas-para-se-viver-melhor/index.html</link>
             <guid isPermaLink="false">c71e802d-2d3a-47b9-83d9-18b9dfa013f8</guid>
             <pubDate>Sat, 06 Feb 2016 17:23:40 GMT</pubDate>
