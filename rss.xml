@@ -4,7 +4,7 @@
         <description><![CDATA[Filipe Santos]]></description>
         <link>http://fisa.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 17:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 17:35:00 GMT</lastBuildDate>
         <atom:link href="http://fisa.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 06 Feb 2016 01:48:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The weekend ]]></title>
+            <description><![CDATA[<article><h1>The weekend </h1><p>The weekend</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9485a069-d93d-4157-aa3e-3898228ad68e.png"></article>]]></description>
+            <link>http://fisa.me/the-weekend/index.html</link>
+            <guid isPermaLink="false">5e1d06ef-0992-47c0-8e83-787b667fe556</guid>
+            <pubDate>Sat, 06 Feb 2016 17:33:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ballin = chillin]]></title>
-            <description><![CDATA[<article><h1>Ballin = chillin</h1><p>Fim de semana, basquete e amigos. what else?</p></article>]]></description>
+            <description><![CDATA[<article><h1>Ballin = chillin</h1><p>Fim de semana, basquete e amigos. what else?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01193303b0f2e291bff83a22f0dc1872aac55c80.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=3kyuCTnN0VY&amp;feature=youtu.be</link>
             <guid isPermaLink="false">87527f2c-6da0-4b56-a076-8d691c4e7dbc</guid>
             <pubDate>Sat, 06 Feb 2016 17:33:13 GMT</pubDate>
@@ -69,13 +76,6 @@
             <link>http://fisa.me/dicas-para-se-viver-melhor/index.html</link>
             <guid isPermaLink="false">c71e802d-2d3a-47b9-83d9-18b9dfa013f8</guid>
             <pubDate>Sat, 06 Feb 2016 17:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c4d9548-8988-4ef4-a6d4-8c6b42d3ffcd.JPG">]]></description>
-            <link>http://fisa.me/f14f33ec-9f8f-408b-b29b-f2b3f203e79b/index.html</link>
-            <guid isPermaLink="false">f14f33ec-9f8f-408b-b29b-f2b3f203e79b</guid>
-            <pubDate>Sat, 06 Feb 2016 01:10:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
