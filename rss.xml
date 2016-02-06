@@ -4,7 +4,7 @@
         <description><![CDATA[Filipe Santos]]></description>
         <link>http://fisa.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 02:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 02:32:53 GMT</lastBuildDate>
         <atom:link href="http://fisa.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://fisa.me/719f4155-dcb8-4f40-bf73-0c5050150726/index.html</link>
             <guid isPermaLink="false">719f4155-dcb8-4f40-bf73-0c5050150726</guid>
             <pubDate>Sat, 06 Feb 2016 01:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quando uma foto me cala..]]></title>
+            <description><![CDATA[<article><h1>Quando uma foto me cala..</h1><p>Aquele momento em que é preciso deixar o tempo falar com você. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58833e9a20ea6ee0757579295f492d708347246e.jpg"></article>]]></description>
+            <link>http://fisa.me/quando-uma-foto-me-cala/index.html</link>
+            <guid isPermaLink="false">4c22aa1b-1842-4bb8-b8a9-11f0ab43e7de</guid>
+            <pubDate>Sat, 06 Feb 2016 02:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como manter seus clientes focados no seu site]]></title>
+            <description><![CDATA[<article><h1>Como manter seus clientes focados no seu site</h1><p>Tente ler um livro e fazer palavras-cruzadas ao mesmo tempo. Esse é o ambiente intelectual da Internet atualmente.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db34a4bd15634062d477de0da67b8a132b29ce8.png"></article>]]></description>
+            <link>http://fisa.me/como-manter-seus-clientes-focados-no-seu-site/index.html</link>
+            <guid isPermaLink="false">5dac2f0f-6afc-457b-a855-ac39b6be25a2</guid>
+            <pubDate>Sat, 06 Feb 2016 02:31:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mantenha sua propriedade intelectual sã e salva]]></title>
@@ -37,7 +51,7 @@
         <item>
             <title><![CDATA[Dicas para se viver melhor]]></title>
             <description><![CDATA[<article><h1>Dicas para se viver melhor</h1><p>O que é preciso para ser feliz?
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/490241dd35e840c36dce1f2c26cacd1ddf5f473e.png"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d84fd50f826087d7241171bbbc7f66495ac6e2.png"></article>]]></description>
             <link>http://fisa.me/dicas-para-se-viver-melhor/index.html</link>
             <guid isPermaLink="false">c71e802d-2d3a-47b9-83d9-18b9dfa013f8</guid>
             <pubDate>Sat, 06 Feb 2016 02:31:39 GMT</pubDate>
@@ -62,20 +76,6 @@
             <link>http://fisa.me/94e22ac2-7f65-469e-b51e-eb14119903fb/index.html</link>
             <guid isPermaLink="false">94e22ac2-7f65-469e-b51e-eb14119903fb</guid>
             <pubDate>Sat, 06 Feb 2016 01:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e221f897-0f82-4dd5-9127-1cdce72906d6.png">]]></description>
-            <link>http://fisa.me/50f9c682-f882-48ec-a05c-45d32f1e3cf6/index.html</link>
-            <guid isPermaLink="false">50f9c682-f882-48ec-a05c-45d32f1e3cf6</guid>
-            <pubDate>Sat, 06 Feb 2016 00:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54a1482b-039c-44c8-8e08-7b015e63b502.jpg">]]></description>
-            <link>http://fisa.me/b9b871e1-4dad-4e9f-afe9-d5df747d8478/index.html</link>
-            <guid isPermaLink="false">b9b871e1-4dad-4e9f-afe9-d5df747d8478</guid>
-            <pubDate>Sat, 06 Feb 2016 00:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
