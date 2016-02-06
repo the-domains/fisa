@@ -1,11 +1,8 @@
-analytics:
-  twitter: null
-  google: UA-62724694-1
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: FILIPE SANTOS
+favicon: null
+layout_spectrum: 0.32177
+typography_spectrum: 0.25145
+title: Filipe Santos
 collections:
   - index:
       path: /
@@ -18,24 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.32177
-title: Filipe Santos
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: UA-62724694-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9085288278292865
-  brandStrength: 0.625
-  rhythmicContrast: 0.6290766329038888
   brandColors:
     - '#f40047'
     - '#ffe200'
     - '#40bcff'
     - '#1f1830'
     - '#ff6637'
+  brandStrength: 0.625
   lightness: 0.6386932565364987
+  saturation: 0.9085288278292865
+  rhythmicContrast: 0.6290766329038888
 purpose: []
-favicon: null
-name: FISA
-typography_spectrum: 0.25145
