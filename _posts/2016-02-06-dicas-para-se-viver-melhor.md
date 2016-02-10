@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T17:23:40.400Z'
-dateModified: '2016-02-06T17:23:37.062Z'
+datePublished: '2016-02-10T16:09:39.363Z'
+dateModified: '2016-02-10T16:09:35.280Z'
 title: Dicas para se viver melhor
 author: []
 sourcePath: _posts/2016-02-06-dicas-para-se-viver-melhor.md
@@ -26,7 +26,7 @@ _type: Article
 
 O que é preciso para ser feliz?
 
-Diante de um mundo cada vez mais conectado, privado e recheados de emoticons colorindo as redes sociais, nos vemos refém de uma sociedade cybernética que ditam novas regras e manipulam as massas. Para tentar driblar os obstaculos que a vida nos traz é essencial que utilizemos dos recursos disponíveis ao nosso alcance para se viver melhor. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d84fd50f826087d7241171bbbc7f66495ac6e2.png)
+Diante de um mundo cada vez mais conectado, privado e recheados de emoticons colorindo as redes sociais, nos vemos refém de uma sociedade cybernética que ditam novas regras e manipulam as massas. Para tentar driblar os obstaculos que a vida nos traz é essencial que utilizemos dos recursos disponíveis ao nosso alcance para se viver melhor. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e71ac3efb8d283ac1b3c7b067d3a37eb309bd84c.png)
 
 Disponho aqui de algumas dicas que podem nos ajudar a chegar lá!
 
