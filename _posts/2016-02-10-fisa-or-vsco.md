@@ -1,27 +1,30 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: Showing some pictures that I only share in VSCO.
+datePublished: '2016-02-10T17:17:08.717Z'
+dateModified: '2016-02-10T17:17:06.240Z'
 author: []
 related: []
-publisher:
-  url: 'http://vsco.co'
-  name: 'vsco.co/fisa | A VSCO Grid'
-  favicon: 'http://assets.vsco.co/assets/images/favicon.ico'
-  domain: vsco.co
-keywords: []
-description: "Hello. I'm Filipe, a scientist, photography's lover and a terrible rapper."
 app_links:
   - url: 'vsco://user/50766/grid'
     type: ios
     app_store_id: '588013838'
     app_name: VSCOCam
-isBasedOnUrl: 'http://vsco.co/fisa/grid/1'
-title: 'FiSa | VSCO'
-datePublished: '2016-02-10T16:24:29.463Z'
-dateModified: '2016-02-10T16:22:22.401Z'
+title: FiSa @ VSCO
 sourcePath: _posts/2016-02-10-fisa-or-vsco.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'vsco.co/fisa | A VSCO Grid'
+  domain: vsco.co
+  url: 'http://vsco.co'
+  favicon: 'http://assets.vsco.co/assets/images/favicon.ico'
+url: fisa-vsco/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
