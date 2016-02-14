@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T16:09:39.363Z'
-dateModified: '2016-02-10T16:09:35.280Z'
+datePublished: '2016-02-14T23:07:30.577Z'
+dateModified: '2016-02-14T23:07:21.798Z'
 title: Dicas para se viver melhor
 author: []
 sourcePath: _posts/2016-02-06-dicas-para-se-viver-melhor.md
