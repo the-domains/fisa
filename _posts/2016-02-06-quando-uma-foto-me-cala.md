@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-06T02:31:40.025Z'
-dateModified: '2016-02-06T02:13:09.499Z'
+description: 'Aquele momento em que é preciso deixar o tempo falar com você. '
+datePublished: '2016-05-26T01:43:59.571Z'
+dateModified: '2016-05-26T01:43:53.466Z'
 title: Quando uma foto me cala..
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-02-06-quando-uma-foto-me-cala.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: quando-uma-foto-me-cala/index.html
 _type: Article
 
@@ -31,6 +26,6 @@ Primeiro, é necessário se acalmar, sentir o vento tocar seu rosto, respirar é
 
 Assuma o controle, feche os olhos, ouça o que o mundo tem para te dizer, erga a cabeça contemple o seu redor, a essa altura é bem mais fácil de enxergar o que ninguém mais vê. É nesse momento que eu pego a câmera é registro aquilo que passa desapercebido por todo mundo e salvo em um formato jpg. 
 
-É assim que eu me inspiro para tirar uma foto.. 
+É assim que eu me inspiro para tirar uma foto... 
 
 E você, qual técnica utiliza?
