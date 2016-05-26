@@ -4,7 +4,7 @@
         <description><![CDATA[FILIPE SANTOS]]></description>
         <link>http://fisa.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 02:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 02:17:45 GMT</lastBuildDate>
         <atom:link href="http://fisa.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,21 @@
             <link>http://fisa.me/b9b871e1-4dad-4e9f-afe9-d5df747d8478/index.html</link>
             <guid isPermaLink="false">b9b871e1-4dad-4e9f-afe9-d5df747d8478</guid>
             <pubDate>Thu, 26 May 2016 02:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dicas para se viver melhor]]></title>
+            <description><![CDATA[<article><h1>Dicas para se viver melhor</h1><p>O que é preciso para ser feliz?
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/242c1e4b53f69089b9827847acc44b8980f636fc.png"></article>]]></description>
+            <link>http://fisa.me/dicas-para-se-viver-melhor/index.html</link>
+            <guid isPermaLink="false">c71e802d-2d3a-47b9-83d9-18b9dfa013f8</guid>
+            <pubDate>Sun, 14 Feb 2016 23:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ballin = chillin]]></title>
+            <description><![CDATA[<article><h1>Ballin = chillin</h1><p>Fim de semana, basquete e amigos. what else?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01193303b0f2e291bff83a22f0dc1872aac55c80.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3kyuCTnN0VY&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">87527f2c-6da0-4b56-a076-8d691c4e7dbc</guid>
+            <pubDate>Sat, 06 Feb 2016 17:33:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
