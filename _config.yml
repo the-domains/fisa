@@ -1,8 +1,34 @@
-name: FILIPE SANTOS
-favicon: null
-layout_spectrum: 0.32177
 typography_spectrum: 0.25145
-title: null
+color:
+  brandColors:
+    - '#f40047'
+    - '#ffe200'
+    - '#40bcff'
+    - '#1f1830'
+    - '#ff6637'
+  brandStrength: 0.625
+  lightness: 0.6386932565364987
+  saturation: 0.9085288278292865
+  rhythmicContrast: 0.6290766329038888
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.32177
+analytics:
+  google: UA-62724694-1
+  facebook: null
+  twitter: null
+author:
+  name: Filipe Santos
+  email: filipe@fisa.me
+  url: www.fisa.me
+name: FILIPE SANTOS
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/82b0e0f9-715b-44be-a917-d9f4d7b635fe.png'
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-62724694-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#f40047'
-    - '#ffe200'
-    - '#40bcff'
-    - '#1f1830'
-    - '#ff6637'
-  brandStrength: 0.625
-  lightness: 0.6386932565364987
-  saturation: 0.9085288278292865
-  rhythmicContrast: 0.6290766329038888
+title: null
 purpose: []
