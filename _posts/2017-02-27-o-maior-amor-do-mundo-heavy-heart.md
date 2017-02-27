@@ -1,0 +1,29 @@
+---
+inFeed: true
+description: O maior amor do mundo!! ❤️
+dateModified: '2017-02-27T18:52:38.587Z'
+datePublished: '2017-02-27T18:52:40.432Z'
+title: ''
+author: []
+publisher: {}
+via: {}
+hasPage: true
+sourcePath: _posts/2017-02-27-o-maior-amor-do-mundo-heavy-heart.md
+starred: true
+datePublishedOriginal: '2017-02-27T18:14:03.665Z'
+url: o-maior-amor-do-mundo-heavy-heart/index.html
+_type: Article
+
+---
+O maior amor do mundo!! ❤️
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4b8a801d0709e0f4ba51d2be31c82e4fa8c366d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ad81e8553b027d95a55efadcf873c684a1bd58.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f5f92c896e4959c8755cf950d44035c8d84ff4b.jpg)
+
+---
+
+# Photos from Filipe Santos's post
+
+# Filipe Santos added 3 new photos --- with Regina Marcia in Florianópolis, Santa Catarina.
+
+Saudade nunca vai... \#MaiorAmordoMundo
