@@ -1,18 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: 'Aquele momento em que é preciso deixar o tempo falar com você. '
-datePublished: '2016-05-26T02:20:14.476Z'
-dateModified: '2016-05-26T02:17:30.643Z'
+datePublished: '2017-02-27T18:52:40.448Z'
+dateModified: '2017-02-27T18:52:38.587Z'
 title: Quando uma foto me cala..
 author: []
 sourcePath: _posts/2016-02-06-quando-uma-foto-me-cala.md
 authors: []
-publisher: null
+publisher: {}
 starred: false
+datePublishedOriginal: '2016-05-26T02:20:14.476Z'
+via: {}
 url: quando-uma-foto-me-cala/index.html
 _type: Article
 
