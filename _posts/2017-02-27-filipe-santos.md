@@ -4,8 +4,8 @@ description: >-
   Eu, gordinho¹, gatão² e humildaço³ ¹²³Talvez os adjetivos não tenham sido
   empregados na ordem correta de grau comum ou superlativo absoluto... só pra
   constar.
-dateModified: '2017-02-27T19:01:53.816Z'
-datePublished: '2017-02-27T19:01:54.738Z'
+dateModified: '2017-02-27T19:01:54.714Z'
+datePublished: '2017-02-27T19:01:55.936Z'
 title: Filipe Santos
 author: []
 publisher: {}
