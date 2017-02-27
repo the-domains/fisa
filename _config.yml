@@ -121,7 +121,7 @@ content:
 purpose:
   - type: email
     url: 'mailto:filipe@fisa.me'
-    label: 'Contact me '
+    label: 'Contact me ✉️ '
   - type: external
     url: 'https://www.instagram.com/fisa67'
     label: "InstaME! \uD83D\uDCF7"
