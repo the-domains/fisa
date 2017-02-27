@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Eu e minha bela esposa no casamento mais animado que já participei!
-dateModified: '2017-02-27T18:52:38.587Z'
-datePublished: '2017-02-27T18:52:40.333Z'
-title: Filipe Santos with Marta Elikiane.
+description: No casamento mais animado que já participei!
+dateModified: '2017-02-27T19:02:50.196Z'
+datePublished: '2017-02-27T19:02:51.247Z'
+title: Eu e minha bela esposa…
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-02-27T18:14:05.953Z'
 _type: MediaObject
 
 ---
-# Filipe Santos with Marta Elikiane.
+# Eu e minha bela esposa...
 
-Eu e minha bela esposa no casamento mais animado que já participei!
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bc61238dcefdc417fef6d5b53957c66f/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-0%2Fp180x540%2F13010722_10201488672534190_1222846127730769957_n.jpg%3Foh%3D38ae9b65218da346dd1deb1b0dcb2502%26oe%3D5944FB58)
+No casamento mais animado que já participei!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b10839771a2d5b2bc65c409b8eb960226b54bc76.jpg)
