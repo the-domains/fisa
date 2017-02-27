@@ -1,18 +1,21 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
-description: Tente ler um livro e fazer palavras-cruzadas ao mesmo tempo. Esse é o ambiente intelectual da Internet atualmente.
-datePublished: '2016-05-26T02:20:24.307Z'
-dateModified: '2016-05-26T02:17:36.968Z'
+description: >-
+  Tente ler um livro e fazer palavras-cruzadas ao mesmo tempo. Esse é o ambiente
+  intelectual da Internet atualmente.
+datePublished: '2017-02-27T18:52:40.441Z'
+dateModified: '2017-02-27T18:52:38.587Z'
 title: Como manter seus clientes focados no seu site
 author: []
 authors: []
-publisher: null
+publisher: {}
 sourcePath: _posts/2016-02-06-como-manter-seus-clientes-focados-no-seu-site.md
 starred: false
+datePublishedOriginal: '2016-05-26T02:20:24.307Z'
+via: {}
 url: como-manter-seus-clientes-focados-no-seu-site/index.html
 _type: Article
 
