@@ -1,21 +1,21 @@
 ---
+datePublished: '2017-02-27T18:52:40.441Z'
+sourcePath: _posts/2016-02-06-dicas-para-se-viver-melhor.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: |
-  O que é preciso para ser feliz?
-datePublished: '2016-05-26T02:20:34.065Z'
-dateModified: '2016-05-26T02:17:46.332Z'
-title: Dicas para se viver melhor
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-02-06-dicas-para-se-viver-melhor.md
-authors: []
-publisher: null
+via: {}
+dateModified: '2017-02-27T18:52:38.587Z'
+title: Dicas para se viver melhor
+publisher: {}
+description: O que é preciso para ser feliz?
+inLanguage: null
 starred: false
+datePublishedOriginal: '2016-10-12T02:07:01.752Z'
 url: dicas-para-se-viver-melhor/index.html
 _type: Article
 
@@ -23,14 +23,17 @@ _type: Article
 # Dicas para se viver melhor
 
 O que é preciso para ser feliz?
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/242c1e4b53f69089b9827847acc44b8980f636fc.png)
 
-Diante de um mundo cada vez mais conectado, privado e recheados de emoticons colorindo as redes sociais, nos vemos refém de uma sociedade cybernética que ditam novas regras e manipulam as massas. Para tentar driblar os obstaculos que a vida nos traz é essencial que utilizemos dos recursos disponíveis ao nosso alcance para se viver melhor. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e71ac3efb8d283ac1b3c7b067d3a37eb309bd84c.png)
+Diante de um mundo cada vez mais conectado, privado e recheados de emoticons colorindo as redes sociais, nos vemos refém de uma sociedade cybernética que ditam novas regras e manipulam as massas.
+
+Para tentar driblar os obstáculos que a vida nos traz é essencial que utilizemos dos recursos disponíveis ao nosso alcance para se viver melhor.
 
 Disponho aqui de algumas dicas que podem nos ajudar a chegar lá!
 
 **PARE DE:**
 
-* fazer o papel de vítima 
+* fazer o papel de vítima
 
 * inventar desculpas
 
@@ -57,7 +60,4 @@ Disponho aqui de algumas dicas que podem nos ajudar a chegar lá!
 * fazer tudo o que você quer acontecer
 
 * criar sua própria lista de dicas para se viver melhor
-
-****
-
 * ajudar os outros a perceberem que podem fazer a sua própria felicidade
