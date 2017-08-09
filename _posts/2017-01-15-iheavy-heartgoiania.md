@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Devagarinho vou me conectando a outros lugares e amando novas cidades...
-dateModified: '2017-02-27T18:52:38.587Z'
-datePublished: '2017-02-27T18:52:40.419Z'
+dateModified: '2017-08-09T16:01:24.829Z'
+datePublished: '2017-08-09T16:01:26.631Z'
 title: I❤️Goiania
 author: []
 publisher: {}
