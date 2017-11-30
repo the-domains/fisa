@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Tente ler um livro e fazer palavras-cruzadas ao mesmo tempo. Esse é o ambiente
   intelectual da Internet atualmente.
-datePublished: '2017-08-09T16:01:26.657Z'
-dateModified: '2017-08-09T16:01:24.829Z'
+datePublished: '2017-11-30T23:37:20.199Z'
+dateModified: '2017-11-30T23:37:19.504Z'
 title: Como manter seus clientes focados no seu site
 author: []
 authors: []
