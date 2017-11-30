@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: "Identificar sua Propriedade Intelectual (PI),\_e desenvolver uma estratégia é o primeiro passo na criação de um negócio. No entanto, muitos empresários atrasados nem sequer pensam sobre PI, só quando já é tarde demais, porque eles não acreditam que eles têm alguma coisa que vale a pena proteger. Mas isto é um erro grave, vamos abordar isso mais afundo."
-datePublished: '2017-08-09T16:01:26.658Z'
-dateModified: '2017-08-09T16:01:24.829Z'
+datePublished: '2017-11-30T23:37:20.202Z'
+dateModified: '2017-11-30T23:37:19.504Z'
 title: Mantenha sua propriedade intelectual sã e salva
 author: []
 authors: []
