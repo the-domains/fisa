@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Sim. E quem nunca sentiu essa vontade de chutar o balde por não não encontrar
   razões de continuar, não é mesmo?
-dateModified: '2018-03-02T02:02:37.873Z'
-datePublished: '2018-03-02T02:02:38.739Z'
+dateModified: '2018-03-02T02:03:40.829Z'
+datePublished: '2018-03-02T02:03:44.106Z'
 title: A sutil arte de ligar o f*da-se
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-03-02-a-sutil-arte-de-ligar-o-fda-se.md
 starred: false
 datePublishedOriginal: '2018-03-02T02:02:36.138Z'
-sourcePath: _posts/2018-03-02-a-sutil-arte-de-ligar-o-fda-se.md
 url: a-sutil-arte-de-ligar-o-fda-se/index.html
 _type: Article
 
