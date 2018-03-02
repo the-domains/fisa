@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-11-30T23:37:20.205Z'
+datePublished: '2018-03-02T01:56:14.253Z'
 sourcePath: _posts/2016-02-06-7-acessorios-para-sua-primeira-dslr.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-11-30T23:37:19.504Z'
+dateModified: '2018-03-02T01:56:13.038Z'
 title: 7 Acessórios para sua primeira DSLR
 publisher: {}
 description: >-
