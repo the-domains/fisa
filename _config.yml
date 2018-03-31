@@ -44,7 +44,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: null
+title: Le Fisa
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -126,3 +126,4 @@ purpose:
     url: 'https://www.instagram.com/fisa67'
     label: "\uD83D\uDCF7 "
 github: true
+description: ''
