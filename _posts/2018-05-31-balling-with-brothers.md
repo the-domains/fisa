@@ -13,7 +13,7 @@ keywords:
   - basketball
   - ballers
   - streetball
-description: Trio no Horto
+description: Como é bom estar com os amigos...
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=iHVOASurYGM&feature=applinks'
     type: ios
@@ -53,12 +53,12 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/iHVOASurYGM'
 title: Balling with brothers
-datePublished: '2018-05-31T20:55:57.493Z'
-dateModified: '2018-05-31T20:55:36.774Z'
-datePublishedOriginal: '2018-05-31T20:55:57.493Z'
+datePublished: '2018-05-31T20:59:22.124Z'
+dateModified: '2018-05-31T20:59:16.115Z'
 via: {}
 inFeed: true
 starred: false
+datePublishedOriginal: '2018-05-31T20:59:22.124Z'
 sourcePath: _posts/2018-05-31-balling-with-brothers.md
 _type: VideoObject
 _context: 'http://schema.org'
