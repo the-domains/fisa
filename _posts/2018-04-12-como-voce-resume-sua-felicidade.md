@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-12T13:42:43.268Z'
-datePublished: '2018-04-12T13:42:48.090Z'
+dateModified: '2018-06-03T22:58:24.501Z'
+datePublished: '2018-06-03T22:58:25.983Z'
 title: Como você resume sua felicidade?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-12-como-voce-resume-sua-felicidade.md
 starred: false
 datePublishedOriginal: '2018-04-12T13:42:48.090Z'
-sourcePath: _posts/2018-04-12-como-voce-resume-sua-felicidade.md
 _type: Blurb
 
 ---
