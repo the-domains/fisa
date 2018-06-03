@@ -4,9 +4,9 @@ author:
     url: 'http://twitter.com/sixers'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2e554ec9864e15b397cd3ea179e0bbbf/croprotate.jpg?cropheight=384&cropwidth=384&degrees=0&input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F902244430530392065%2FQ-PYm5hG_400x400.jpg&x=8&y=8
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/111c72cc5413877cf53c4a86b5e49737c533389a.jpg
       original: >-
-        https://pbs.twimg.com/profile_images/902244430530392065/Q-PYm5hG_400x400.jpg
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2e554ec9864e15b397cd3ea179e0bbbf/croprotate.jpg?cropheight=384&cropwidth=384&degrees=0&input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F902244430530392065%2FQ-PYm5hG_400x400.jpg&x=8&y=8
       width: 384
       height: 384
       colors:
@@ -20,11 +20,11 @@ author:
           - 30
           - 52
         - - 241
-          - 159
-          - 163
-        - - 144
-          - 165
-          - 222
+          - 160
+          - 167
+        - - 145
+          - 164
+          - 220
 related: []
 publisher:
   url: 'http://twitter.com'
@@ -50,14 +50,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://t.co/Gjn84sNZ4e?ssr=true'
-datePublished: '2017-11-02T01:42:38.365Z'
-dateModified: '2017-11-02T01:40:19.977Z'
-datePublishedOriginal: '2017-11-02T01:42:38.365Z'
+datePublished: '2018-06-03T22:58:25.998Z'
+dateModified: '2018-06-03T22:58:24.501Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-02-throw-it-down-big-fella-httpstcogjn84snz4e.md
+starred: false
+datePublishedOriginal: '2017-11-02T01:42:38.365Z'
 _type: Comment
 _context: 'http://schema.org'
 
