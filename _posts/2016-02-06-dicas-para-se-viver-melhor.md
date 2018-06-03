@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-03-02T02:03:44.303Z'
+datePublished: '2018-06-03T22:58:25.993Z'
 sourcePath: _posts/2016-02-06-dicas-para-se-viver-melhor.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2018-03-02T02:03:40.829Z'
+dateModified: '2018-06-03T22:58:24.501Z'
 title: Dicas para se viver melhor
 publisher: {}
 description: O que é preciso para ser feliz?
