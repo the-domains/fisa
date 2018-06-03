@@ -1,12 +1,12 @@
 ---
 publisher: {}
-dateModified: '2018-06-03T22:58:24.501Z'
+dateModified: '2018-06-03T23:47:56.399Z'
 via: {}
 description: "Um livro que eu me apaixonei de cara! A capa é irada, e o autor… O que eu irei falar do Poe? livro altamente recomendado #caveirinha \uD83D\uDC80#DarksideBooks"
 title: ''
 inFeed: true
 author: []
-datePublished: '2018-06-03T22:58:25.952Z'
+datePublished: '2018-06-03T23:47:57.338Z'
 sourcePath: >-
   _posts/2017-11-02-um-livro-que-eu-me-apaixonei-de-cara-a-capa-e-irada-e-o-au.md
 starred: false
