@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-03-02T02:03:44.271Z'
+datePublished: '2018-06-03T22:58:25.952Z'
 sourcePath: _posts/2016-02-06-ballin-chillin.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3kyuCTnN0VY&feature=youtu.be'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/FiSa67'
     avatar: {}
 via: {}
-dateModified: '2018-03-02T02:03:40.829Z'
+dateModified: '2018-06-03T22:58:24.501Z'
 title: Ballin = chillin
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3kyuCTnN0VY&feature=applinks'
