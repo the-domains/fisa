@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2018-06-03T23:46:07.024Z'
+dateModified: '2018-06-03T23:47:56.399Z'
 via: {}
 description: "São Caetano já está ficando com a minha cara… \uD83D\uDE39\uD83D\uDE39\uD83D\uDE39"
 title: ''
 inFeed: true
 author: []
-datePublished: '2018-06-03T23:46:13.092Z'
+datePublished: '2018-06-03T23:47:57.297Z'
+sourcePath: _posts/2018-06-03-sao-caetano-ja-esta-ficando-com-a-minha-cara.md
 starred: true
 datePublishedOriginal: '2018-06-03T23:46:13.092Z'
-sourcePath: _posts/2018-06-03-sao-caetano-ja-esta-ficando-com-a-minha-cara.md
 _type: Blurb
 
 ---
