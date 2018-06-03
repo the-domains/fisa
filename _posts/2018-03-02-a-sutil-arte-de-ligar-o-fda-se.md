@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Sim. E quem nunca sentiu essa vontade de chutar o balde por não não encontrar
   razões de continuar, não é mesmo?
-dateModified: '2018-06-03T22:58:24.501Z'
-datePublished: '2018-06-03T22:58:25.951Z'
+dateModified: '2018-06-03T23:47:56.399Z'
+datePublished: '2018-06-03T23:47:57.339Z'
 title: A sutil arte de ligar o f*da-se
 author: []
 publisher: {}
