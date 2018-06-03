@@ -6,7 +6,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/111c72cc5413877cf53c4a86b5e49737c533389a.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2e554ec9864e15b397cd3ea179e0bbbf/croprotate.jpg?cropheight=384&cropwidth=384&degrees=0&input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F902244430530392065%2FQ-PYm5hG_400x400.jpg&x=8&y=8
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/111c72cc5413877cf53c4a86b5e49737c533389a.jpg
       width: 384
       height: 384
       colors:
@@ -50,8 +50,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://t.co/Gjn84sNZ4e?ssr=true'
-datePublished: '2018-06-03T22:58:25.998Z'
-dateModified: '2018-06-03T22:58:24.501Z'
+datePublished: '2018-06-03T23:47:57.350Z'
+dateModified: '2018-06-03T23:47:56.399Z'
 title: ''
 via: {}
 inFeed: true
