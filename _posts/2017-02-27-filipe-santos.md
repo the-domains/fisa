@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-03-02T02:03:44.190Z'
+datePublished: '2018-06-03T22:58:25.928Z'
 description: "Eu, gordinho¹, gatão² e humildaço³ ¹²³Talvez os adjetivos não tenham sido empregados na ordem correta de grau comum ou superlativo absoluto... só pra constar \uD83D\uDE2C"
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-03-02T02:03:40.829Z'
+dateModified: '2018-06-03T22:58:24.501Z'
 sourcePath: _posts/2017-02-27-filipe-santos.md
 title: Filipe Santos
 hasPage: true
