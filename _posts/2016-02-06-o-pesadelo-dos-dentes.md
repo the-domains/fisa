@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-06-03T22:58:25.985Z'
+datePublished: '2018-06-03T23:47:57.346Z'
 sourcePath: _posts/2016-02-06-o-pesadelo-dos-dentes.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2018-06-03T22:58:24.501Z'
+dateModified: '2018-06-03T23:47:56.399Z'
 title: O Pesadelo dos Dentes
 publisher: {}
 description: Que estranho acordar e ver que te faltam dois dentes em sua boca..
