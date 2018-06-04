@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Sim. E quem nunca sentiu essa vontade de chutar o balde por não não encontrar
-  razões de continuar, não é mesmo?
-dateModified: '2018-06-03T23:47:56.399Z'
-datePublished: '2018-06-03T23:47:57.339Z'
+description: ''
+dateModified: '2018-06-04T00:04:00.916Z'
+datePublished: '2018-06-04T00:04:01.862Z'
 title: A sutil arte de ligar o f*da-se
 author: []
 publisher: {}
@@ -21,6 +19,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b538029f-3b65-4f14-a43f-2f498df7c13d.jpg)
 
 ### Comprei esse livro porque o titulo me deixava com um sorriso no rosto.
+
+---
 
 Sim. E quem nunca sentiu essa vontade de chutar o balde por não não encontrar razões de continuar, não é mesmo?
 
