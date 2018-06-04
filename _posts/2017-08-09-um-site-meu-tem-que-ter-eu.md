@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Um site meu tem que ter eu \uD83D\uDE2C."
-dateModified: '2018-06-03T23:47:56.399Z'
-datePublished: '2018-06-03T23:47:57.330Z'
+dateModified: '2018-06-04T00:08:37.234Z'
+datePublished: '2018-06-04T00:08:38.239Z'
 title: ''
 author: []
 publisher: {}
@@ -13,5 +13,4 @@ datePublishedOriginal: '2017-08-09T15:24:50.752Z'
 _type: Blurb
 
 ---
-Um site meu tem que ter eu 😬.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1a0d81-7854-48be-ba6d-1b4540347194.jpg)
+![Um site meu tem que ter eu .](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1a0d81-7854-48be-ba6d-1b4540347194.jpg)
