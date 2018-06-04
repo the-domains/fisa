@@ -1,15 +1,12 @@
 ---
 publisher: {}
-dateModified: '2018-06-03T23:02:18.417Z'
+dateModified: '2018-06-04T00:06:10.300Z'
 via: {}
 description: I’ve been playing with those guys for almost two decades and still so fun!!
 title: Balling with brothers
 inFeed: true
-author:
-  - name: Filipe Santos
-    url: 'https://www.youtube.com/user/FiSa67'
-    avatar: {}
-datePublished: '2018-06-03T23:02:19.528Z'
+author: []
+datePublished: '2018-06-04T00:06:11.423Z'
 isBasedOnUrl: 'https://youtu.be/iHVOASurYGM'
 sourcePath: _posts/2018-06-03-balling-with-brothers.md
 starred: true
