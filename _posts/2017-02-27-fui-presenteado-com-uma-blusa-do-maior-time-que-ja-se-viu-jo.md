@@ -4,8 +4,8 @@ description: >-
   Foi bem assim… Primeiro uma brincadeira, mas com o passar dos dias fomos
   ganhando confiança e maturidade, aprendemos juntos o significado da palavra
   família, isso fez toda a diferença na nossa história.
-dateModified: '2018-06-03T23:47:56.399Z'
-datePublished: '2018-06-03T23:47:57.349Z'
+dateModified: '2018-06-04T00:17:42.419Z'
+datePublished: '2018-06-04T00:17:43.443Z'
 title: Pluperfect
 author: []
 publisher: {}
@@ -25,6 +25,8 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/809188cc5c343c8db9f8298c53d3c08923c16be9.jpg)
 
 Foi bem assim... Primeiro uma brincadeira, mas com o passar dos dias fomos ganhando confiança e maturidade, aprendemos juntos o significado da palavra família, isso fez toda a diferença na nossa história.
+
+---
 
 Ganhamos um campeonato, buscamos outros... Fomos para times diferentes e tentávamos mesmo que a distancia continuar motivados por aquilo que tinha nos feito chegar até aqui.
 
