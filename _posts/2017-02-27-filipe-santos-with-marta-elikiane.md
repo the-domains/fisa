@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: No casamento mais animado que já participei!
-dateModified: '2018-06-03T23:47:56.399Z'
-datePublished: '2018-06-03T23:47:57.338Z'
+dateModified: '2018-06-09T03:50:38.590Z'
+datePublished: '2018-06-09T03:50:40.735Z'
 title: Eu e minha bela esposa…
 author: []
 publisher: {}
