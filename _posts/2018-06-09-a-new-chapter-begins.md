@@ -1,22 +1,24 @@
 ---
 publisher: {}
-dateModified: '2018-06-09T03:40:40.807Z'
+datePublished: '2018-06-09T03:49:06.462Z'
+dateModified: '2018-06-09T03:48:55.402Z'
+description: >-
+  After a lot of changes in 2018, this year has become a very special one for so
+  many reasons…
 via: {}
-description: A new chapter begins…
-title: ''
+sourcePath: _posts/2018-06-09-a-new-chapter-begins.md
+title: A new chapter begins…
+hasPage: true
 inFeed: true
 author: []
-datePublished: '2018-06-09T03:40:45.153Z'
-hasPage: true
 starred: true
 datePublishedOriginal: '2018-06-09T03:40:45.153Z'
-sourcePath: _posts/2018-06-09-a-new-chapter-begins.md
 url: a-new-chapter-begins/index.html
 _type: Article
 
 ---
-A new chapter begins...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adda9366-8de3-4629-a048-f24c49baacac.jpg)
+# A new chapter begins...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5297319a-8563-48d7-8ee2-f23db5ebe582.jpg)
 
 After a lot of changes in 2018, this year has become a very special one for so many reasons...
 
