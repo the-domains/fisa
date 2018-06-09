@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-06-03T23:47:57.348Z'
+datePublished: '2018-06-09T03:50:40.766Z'
 sourcePath: _posts/2016-10-11-serra-da-piedade-mg-mountain.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-06-03T23:47:56.399Z'
+dateModified: '2018-06-09T03:50:38.590Z'
 title: Serra da Piedade - MG ⛰
 publisher: {}
 description: ''
