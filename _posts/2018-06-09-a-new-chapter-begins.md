@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-06-09T04:13:50.111Z'
-dateModified: '2018-06-09T04:13:12.568Z'
+datePublished: '2018-06-09T04:17:29.481Z'
+dateModified: '2018-06-09T04:17:28.468Z'
 description: >-
   After a lot of changes in 2018, this year has become a very special one for so
   many reasons…
@@ -27,7 +27,6 @@ After a lot of changes in 2018, this year has become a very special one for so m
 I moved from my house. I moved out of my town. I changed my job. So many changes in my life and I brought my wife with me on this journey. Now I have so many reasons to make it work, that there are days when I can barely sleep at night ...
 
 All this will bring great knowledge, in fact already brought. If this adventure ends today, I should say that I was glad for all of this! This is the truth and be glad is the adjective that best fits everything I'm feeling right now.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e790c56-fbaf-44f5-80cd-b9f75d589ec0.jpg)
 
 A happiness that I still can't full describe. A mix of feelings, partly because I'm facing these new challenges, but it get confused with the pressure that my role brings, and adding, the temporary distance of my wife, all of this makes part of this mix of feelings. Maybe this last part is the one that affects me the most, but like I said, it's temporary. In a few days she will definitely be with me, so that I can focus my efforts on what matters most, to transform and ensure that the lives I will now be responsible for continue to progress, evolve and get mature every new day.
 
