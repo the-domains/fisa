@@ -1,13 +1,13 @@
 ---
 publisher: {}
-datePublished: '2018-06-09T04:09:37.293Z'
-dateModified: '2018-06-09T04:09:34.487Z'
+datePublished: '2018-06-09T04:11:21.343Z'
+dateModified: '2018-06-09T04:11:20.329Z'
 description: >-
   After a lot of changes in 2018, this year has become a very special one for so
   many reasons…
 via: {}
 sourcePath: _posts/2018-06-09-a-new-chapter-begins.md
-title: A new chapter begins…
+title: A new chapter begins
 hasPage: true
 inFeed: true
 author: []
@@ -17,7 +17,7 @@ url: a-new-chapter-begins/index.html
 _type: Article
 
 ---
-# A new chapter begins...
+# A new chapter begins
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5297319a-8563-48d7-8ee2-f23db5ebe582.jpg)
 
 After a lot of changes in 2018, this year has become a very special one for so many reasons...
